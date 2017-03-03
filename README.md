@@ -4,9 +4,14 @@
 
 ## 1. Why are you interested in programming? What have you done to expose yourself to programming so far?
 
-I was born and grow in Shanghai, China. I immigrated to the States about five years ago, at my thirtieth. It is not a good age to get a new start. When I was in China, my advantage is my language skill- I can speak English, ensuring me a good career development.  However, after I moved here, my advantage turns into a weakness. Programming is a skill that can fulfill me.  As programming is an internationally accepted skill. As long as there is an Internet and computer, programming will keeping going and developing. And programming industry is a booming one with passion and enthusiasm. Programming is a skill that can fulfill me.
+I was born and grow in Shanghai, China. I immigrated to the States five years ago, at my thirties.  Living in a country speaking Mandarin, the ability of English is my advantage, while here in the States, it turns out to be a weakness. Therefore, I am eager to find a real “solid” skill to fulfill myself.
 
-I am new to programming, but I worked with engineers. When I was in China, I am working for game company. We have a software engineering team but all males. One year ago, I work with my husband on our start-up; we work with software engineer to help us with the database management. 
+Objectively speaking, I think programming is a lifetime skillset, even though programming is keeping updating and developing. The programming industry is booming and software engineers are always in huge demands. 
+
+Personally speaking, I like programming since it is a career with details, rules, innovation, passion and enthusiasm. Engineers need basic rules to generate codes, and need creative thoughts at the meantime. I took accounting classes in Bellevue College for the bookkeeping certificate. The part I don’t like about accounting is that everything is following the regulation. I cannot be creative as an accountant. 
+
+During my working experience, I worked with engineering team. As a team player, I get well along together.  For myself, I am just working on the Ada jumpstart classes on the Github. The codes look mystery so far and I believe that I can do much better in the near future. 
+
 
 ## 2. If you are accepted into our program, where do you see your career in 5 years?
 After graduated from the Ada, I am a qualified soft-engineer. I can see software engineering jobs everywhere in various companies. The big Tech companies, such as Mircosoft, Google, Amazon, are always in a huge demand of engineers. As the development of Internet and online-shopping, companies such as Costco, Starbucks also need soft-engineers for website maintenance or apps developments. Also, small startup no matter what kind of type is always eager for engineers. I can see myself as a junior soft engineer in those industries for no more than 2 years. I will enrich myself through the working experience and I believe I will success. I will specialize in one area of the engineering and be a master of it. Later on, I will be a senior engineer in that area such as web engineering. 
