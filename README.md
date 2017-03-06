@@ -12,6 +12,14 @@ Personally speaking, I am interested in Ada Developers Academy since Ada opens a
 
 During my working experience, I worked with engineering team in game companies. As a team player, I get well along with engineers. One point I want to mention is that all those engineers are male. Before the popularity of web and mobile games, engineers working on the big console games are proud of using C++, C# for coding, which are treated as high-end code language. While web games need Flash and AS3 to code. I met so many senior engineers not willing to make adjustments. Personally, I am working on the Ada jumpstart classes on the Github right now. I know different code languages such as C+, Java, Html, and Juby. Some languages can work together for the better results. We create code in a text editor, which is also a computer program. I need more time and a chance to working on the codes formally and I believe that I can do great in the near future.
 
+## 2. If you are accepted into our program, where do you see your career in 5 years?
+
+_First 2 years_ I will take a full time job as a junior soft-engineer. Tech companies such as Mircosoft, Google, Amazon, other companies such as Costco and Starbucks and small companies are all needs engineers for web developing and maintenance or any other jobs I can do. I prefer game company.
+
+_Second 3-4 years_ I am supposed to get promoted since during the past two years, I am keeping learning and practice coding. Therefore, the aim of the second two-year-period is to be a senior soft-engineer. For this period, I would look for chance to go back to the game developing company if I wasn’t. I would like to contribute more time and energy to game developing. At the meantime, I start to learn some other code language such as Unity.  
+
+_Last on the fifth year_ I should working on developing the second game. It might be a VR game on the mobile platform, since I think VR has so much potential in the near future. My updating coding language Unity skill will support the game developing.
+
 
 ## 3. After reading Ada's Vision, Mission and Inclusivity Statement, how will you contribute to Ada's vision for an inclusive and diverse community?
 After reading Ada’s statements, I want to talk about the culture conflicts first. As I said before, before moving in the states, I was living in Shanghai, China. Even, Shanghai is a big and international city, but people there are sort of traditional and consertive. I was shocked when people here were talking about the trans-gender students should or should not use the male or female bathroom since people in China are still working on providing free lunch for students in provitiy. Living in the community in this era, it changes and more people with different culture backgrounds are emmgered together. Everyone has choices to have the life they prefer. What we should do is to respect their choices. 
