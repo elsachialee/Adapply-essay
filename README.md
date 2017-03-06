@@ -22,8 +22,13 @@ During my working experience, I worked with engineering team in game companies. 
 
 
 ## 3. After reading Ada's Vision, Mission and Inclusivity Statement, how will you contribute to Ada's vision for an inclusive and diverse community?
-After reading Ada’s statements, I want to talk about the culture conflicts first. As I said before, before moving in the states, I was living in Shanghai, China. Even, Shanghai is a big and international city, but people there are sort of traditional and consertive. I was shocked when people here were talking about the trans-gender students should or should not use the male or female bathroom since people in China are still working on providing free lunch for students in provitiy. Living in the community in this era, it changes and more people with different culture backgrounds are emmgered together. Everyone has choices to have the life they prefer. What we should do is to respect their choices. 
-And if I accepted by Ada and be a qualified engineer later, I would contribute more to Ada. I would like to support Ada with financial support and make my own contribution. I would like to provide more chances for those women who are just me right now need a chance to change. 
+
+It is said that everyone has three sexes. Physiological gender, that is, the body of your appearance; self-identified sex, that is, what you think you are and the social-identified sex, that is, what others think you are. Only when these three sexes are the same, we can distinguish ourselves from male or female. 
+
+But how about those who are not, what does their life look like? When I read the Ada’s statements, it brings me the memories of my friend in shanghai, who is in the trouble. When you look at her for the first glance, you cannot tell her gender. She is in a dilemma since she has a female body, but she thinks she is a male. People here in the States are talking about the trans-gender students should or should not use the male or female bathroom, while people in China are still working on providing free lunch for students in poverty. You can imagine how hard the life she has. She never drinks outside since she doesn’t want to hear those yelling at the restroom. She walks in bow back position because she is afraid of showing her body shape. As her friend, I know she is a nice peroson and understand her situation.
+
+Therefore, I advocate the social justice for everyone. No matter who you are and what kind of appearance you have, at what age, everyone is equal. We should respect others.
+
 
 ## 4. Tell us about a time you made a mistake that you learned a lot from. If you encountered the situation again, what would you do differently?
 
