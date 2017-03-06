@@ -27,13 +27,18 @@ It is said that everyone has three sexes. Physiological gender, that is, the bod
 
 But how about those who are not, what does their life look like? When I read the Ada’s statements, it brings me the memories of my friend in shanghai, who is in the trouble. When you look at her for the first glance, you cannot tell her gender. She is in a dilemma since she has a female body, but she thinks she is a male. People here in the States are talking about the trans-gender students should or should not use the male or female bathroom, while people in China are still working on providing free lunch for students in poverty. You can imagine how hard the life she has. She never drinks outside since she doesn’t want to hear those yelling at the restroom. She walks in bow back position because she is afraid of showing her body shape. As her friend, I know she is a nice peroson and understand her situation.
 
-Therefore, I advocate the social justice for everyone. No matter who you are and what kind of appearance you have, at what age, everyone is equal. We should respect others.
+Therefore, I advocate the social justice for everyone. No matter who you are, what kind of appearance you have and at what age, everyone is equal. We should respect others.
 
 
 ## 4. Tell us about a time you made a mistake that you learned a lot from. If you encountered the situation again, what would you do differently?
 
-In 2012, I was having my first kid. Like other new moms, I was worried and nerves, so when my mom and my mother-laws offered helps. I think it would be great if they were helping me at the same time right after my delivery time, which turns to be a big mistake. 
-Both moms are bossy, they think the way they use are the best. It is like running a project, I should not put two leaders in the same team. In a team, even teammembers should cooperate and team-working. But we need a final leader to make the final decision. 
-Also, it is a wasting of human resource. If a job can be down by one person, do not rely on two. With one person, it is more ownership. What we should do is to shift the labor and maximize their productivity. 
-Negotiation doesn’t work on peoples not capable of thinking calmly and objectively. 
+
+I would like to share a mistake in my life in 2012, when I was having my first kid. Like other new moms, I was worried and nerves at that time. When my mom and my mother-laws offered helps at the same time, I think it would be great if they could help me at the same time right after my delivery time.
+
+To some extent, the consequence is not unpredictable. Both moms insisted on her own ways such as how to give a baby bath and how often to feed the baby. They refused to negotiate and listen to each other. I had to send both back to her home as a result. 
+
+What did I learn from this mistake? First, I should never put two leaders in the same team. In a team, even team members should cooperate and team-working. But we only need a leader to make the final decision. Furthermore, it is a wasting of human resource. Second, if a job can be completed by one person perfectly, it might be done by two perople worse, since there is no ownership. What we should do is to enhance the morale and maximize the productivity. Third, Negotiation doesn’t alwaying working. When people are not capable of thinking  in a calme and objective way, we should give them more time and space. Furthermore, I believe that even though we advocate that as a team member we should collaborate, but there are people who could never be on the same page. Then, as a leader, it would be more smart to put them in the different groups. 
+
+
+
 
