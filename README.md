@@ -14,11 +14,11 @@ During my working experience, I worked with engineering team in game companies. 
 
 ## 2. If you are accepted into our program, where do you see your career in 5 years?
 
-_First 2 years_ I will take a full time job as a junior soft-engineer. Tech companies such as Mircosoft, Google, Amazon, other companies such as Costco and Starbucks and small companies are all needs engineers for web developing and maintenance or any other jobs I can do. I prefer game company.
+**_First 2 years_** I will take a full time job as a junior soft-engineer. Tech companies such as Mircosoft, Google, Amazon, other companies such as Costco and Starbucks and small companies are all needs engineers for web developing and maintenance or any other jobs I can do. I prefer game company.
 
-_Second 3-4 years_ I am supposed to get promoted since during the past two years, I am keeping learning and practice coding. Therefore, the aim of the second two-year-period is to be a senior soft-engineer. For this period, I would look for chance to go back to the game developing company if I wasn’t. I would like to contribute more time and energy to game developing. At the meantime, I start to learn some other code language such as Unity.  
+**_Second 3-4 years_** I am supposed to get promoted since during the past two years, I am keeping learning and practice coding. Therefore, the aim of the second two-year-period is to be a senior soft-engineer. For this period, I would look for chance to go back to the game developing company if I wasn’t. I would like to contribute more time and energy to game developing. At the meantime, I start to learn some other code language such as Unity.  
 
-_Last on the fifth year_ I should working on developing the second game. It might be a VR game on the mobile platform, since I think VR has so much potential in the near future. My updating coding language Unity skill will support the game developing.
+**_Last on the fifth year_** I should working on developing the second game. It might be a VR game on the mobile platform, since I think VR has so much potential in the near future. My updating coding language Unity skill will support the game developing.
 
 
 ## 3. After reading Ada's Vision, Mission and Inclusivity Statement, how will you contribute to Ada's vision for an inclusive and diverse community?
